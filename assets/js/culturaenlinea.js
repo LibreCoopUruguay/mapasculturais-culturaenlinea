@@ -1,0 +1,1 @@
+MapasCulturais.geocoder.country = 'uy';
