@@ -71,22 +71,25 @@ return array(
             'allowOther' => true,
             'allowOtherText' => 'Otros',
             'options' => array(
-                'Baños adaptados',
-                'Rampa de acceso',
+                //'Baños adaptados',
+                //'Rampa de acceso',
                 'Elevador',
-                'Señalización táctil',
+                //'Señalización táctil',
                 
                 // vindos do sistema de museus.cultura.gov.br
+                
                 'Bebedero adaptado',
-                'Silla de ruedas para uso del visitante',
-                'Circuito de visita adaptado',
+                //'Silla de ruedas para uso del visitante',
+                //'Circuito de visita adaptado',
+                
                 'Barandilla en las escaleras y rampas',
                 'Elevador adaptado',
                 'Rampa de acceso',
                 'Sanitario adaptado',
-                'Teléfono Público adaptado',
-                'Estacionamento exclusivo para discapacitados',
-                'Estacionamento exclusivo para tercera edad'
+                //'Teléfono Público adaptado',
+                'Estacionamento exclusivo',
+                //'Estacionamento exclusivo para discapacitados',
+                //'Estacionamento exclusivo para tercera edad'
             )
         ),
         'capacidade' => array(
