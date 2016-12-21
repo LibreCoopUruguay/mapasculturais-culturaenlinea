@@ -61,8 +61,8 @@ return array(
             'type' => 'select',
             'options' => array(
                 '' => 'No Informado',
-                'Sim' => 'Sí',
-                'Não' => 'No'
+                'Sí' => 'Sí',
+                'No' => 'No'
             )
         ),
         'acessibilidade_fisica' => array(
