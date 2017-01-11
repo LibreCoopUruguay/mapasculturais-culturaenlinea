@@ -27,6 +27,13 @@ class Theme extends BaseV1\Theme {
         return __DIR__;
     }
     
+    static function _getTexts(){
+        $app = App::i();
+
+        return [
+            'home: welcome' => 'Culturaenlinea.uy es una herramienta colaborativa en la cual tanto los ciudadanos como los actores culturales pueden cargar información visible para todo el que acceda al mapa. Permite conocer el escenario cultural de nuestro país, así como también cargar eventos, espacios culturales y realizar convocatorias de los diversos llamados realizados por esta secretaría entre otros.'
+        ];
+    }
     
 
 }
