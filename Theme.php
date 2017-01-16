@@ -20,7 +20,19 @@ class Theme extends BaseV1\Theme {
         
         // Adiciona JS
         $this->enqueueScript('app', 'culturaenlinea', 'js/culturaenlinea.js', array('mapasculturais-customizable'));
-
+        
+        $this->addSearchQueryFields('En_Municipio,En_Estado');
+        
+        $app->hook('template(site.search.space-infobox-new-fields-before):end', function() {
+            echo '<div ng-if="space.En_Municipio"><span class="label">Ciudad:</span> {{openEntity.space.En_Municipio}}</div>';
+            echo '<div ng-if="space.En_Estado"><span class="label">Departamento:</span> {{openEntity.space.En_Estado}}</div>';
+        });
+        
+        $app->hook('template(site.search.list.space.meta):end', function() {
+            echo '<div ng-if="space.En_Municipio"><span class="label">Ciudad:</span> {{space.En_Municipio}}</div>';
+            echo '<div ng-if="space.En_Estado"><span class="label">Departamento:</span> {{space.En_Estado}}</div>';
+        });
+        
     }
 
     static function getThemeFolder() {
