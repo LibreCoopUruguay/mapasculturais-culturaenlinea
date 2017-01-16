@@ -23,6 +23,13 @@ return array(
                 "v::intVal()" => "El número máximo de inscripciones por agente responsable debe ser un número entero"
             )
         ),
+        
+        'registrationLimit' => array(
+            'label' => \MapasCulturais\i::__('Número máximo de inscrições no projeto'),
+            'validations' => array(
+                "v::intVal()" => \MapasCulturais\i::__("O número máximo de inscrições no projeto deve ser um número inteiro")
+            )
+        ),
 
         'site' => array(
             'label' => 'Sitio',
