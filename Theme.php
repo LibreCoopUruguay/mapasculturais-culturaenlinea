@@ -47,5 +47,36 @@ class Theme extends BaseV1\Theme {
         ];
     }
     
+    protected function _getFilters(){
+        $en_estado_filter = [
+            'fieldType' => 'checklist',
+            'label' => 'Departamento',
+            'placeholder' => 'Seleccione los Departamentos',
+            'filter' => [
+                'param' => 'En_Estado',
+                'value' => 'IN({val})'
+            ]
+        ];
+        
+        $ent_filters = parent::_getFilters();
+        
+        $mod_filters = [];
+        
+        foreach ($ent_filters as $entity => $filters) {
+            $mod_filters[$entity] = [];
+            if (in_array($entity, ['space', 'agent'])){
+                $mod_filters[$entity][] = $en_estado_filter;
+            }
+            foreach ($filters as $filter)
+                if (!(isset($filter['fieldType']) && $filter['fieldType'] === 'checkbox-verified'))
+                    $mod_filters[$entity][] = $filter;
+                    
+            
+        }
+        
+        return $mod_filters;
+        
+    }
+    
 
 }
