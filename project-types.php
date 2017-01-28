@@ -56,6 +56,12 @@ return array(
            //     "v::url('plus.google.com')" => "La url informada no es válida. Deber comenzar con http://"
            // )
         ),
+        
+        'registrationSeals' => array(
+                'label' => \MapasCulturais\i::__('Selos'),
+                'serialize' => function($value) { return json_encode($value); },
+                'unserialize' => function($value) { return json_decode($value); }
+        ),
 
     ),
     'items' => array(
