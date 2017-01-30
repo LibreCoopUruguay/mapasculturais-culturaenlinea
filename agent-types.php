@@ -31,6 +31,7 @@ return array(
             )
         ),
 
+        /*
         'raca' => array(
             'private' => true,
             'label' => 'Raza/color',
@@ -44,7 +45,7 @@ return array(
                 'Indígena' => 'Indígena'
             )
         ),
-
+        */
         'dataDeNascimento' => array(
             'private' => true,
             'label' => 'Fecha de nacimiento/fundación',
