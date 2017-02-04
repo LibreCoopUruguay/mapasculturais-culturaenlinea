@@ -3,7 +3,7 @@
 return array(
 
     'app.geoDivisionsHierarchy' => [
-            'departamento'        => \MapasCulturais\i::__('Departamento'),        // metadata: geoDepartamento
+            '_departamento'        => \MapasCulturais\i::__('Departamento'),        // metadata: geoDepartamento
         ],
         
     'registration.ownerDefinition' => array(
