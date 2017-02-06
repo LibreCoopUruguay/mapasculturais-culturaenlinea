@@ -21,6 +21,9 @@ class Theme extends BaseV1\Theme {
         // Adiciona JS
         $this->enqueueScript('app', 'culturaenlinea', 'js/culturaenlinea.js', array('mapasculturais-customizable'));
         
+        // Adiciona CSS
+        $this->enqueueStyle('app', 'culturaenlinea', 'css/culturaenlinea.css', array('main'));
+        
         $this->addSearchQueryFields('En_Municipio,En_Estado');
         
         $app->hook('template(site.search.space-infobox-new-fields-before):end', function() {
