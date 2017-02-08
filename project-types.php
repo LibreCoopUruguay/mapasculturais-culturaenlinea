@@ -110,7 +110,8 @@ return array(
     		9 =>  array( 'name' => "Muestra"),
     		10 => array( 'name' => "Programa"),
     		11 => array( 'name' => "Reunión"),
-    		11 => array( 'name' => "Velada"),
+    		12 => array( 'name' => "Velada"),
+    		13 => array( 'name' => "Inscripciones"),
         
     )
     /* EXEMPLOS DE METADADOS:
