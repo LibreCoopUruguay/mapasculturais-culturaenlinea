@@ -104,6 +104,7 @@ return array(
             'Charla',
         	'Ciclo',
         	'Convención',
+        	'Desfile',
         	'Encuentro',
         	'Espectáculo',
         	'Festival',
