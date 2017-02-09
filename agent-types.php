@@ -23,14 +23,6 @@ return array(
 //            )
         ),
 
-        'idade' => array(
-            'private' => true,
-            'label' => 'Edad',
-            'validations' => array(
-                "v::intVal()->positive()" => "La edad/fecha debe ser um número positivo."
-            )
-        ),
-
         /*
         'raca' => array(
             'private' => true,
