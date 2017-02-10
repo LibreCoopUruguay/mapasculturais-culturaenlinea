@@ -119,6 +119,7 @@ return array(
         	'Reunión',
         	'Seminario',
         	'Taller',
+        	'Visitas Guiadas',
             'Otros'
         )
     )
