@@ -110,6 +110,7 @@ return array(
         	'Festival',
         	'Fiestas tradicionales',
         	'Función',
+        	'Intervención Urbana',
         	'Jornada',
         	'Lanzamiento',
         	'Muestra y/o exposición',
