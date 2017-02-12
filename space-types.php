@@ -288,7 +288,8 @@ return array(
             		121 => array( 'name' => 'Sellos discográfico' ),
             		122 => array( 'name' => 'Usina Cultural' ),
                     123 => array( 'name' => 'Oficina cultural'),
-                    124 => array( 'name' => 'Fabrica de Cultura')
+                    124 => array( 'name' => 'Fabrica de Cultura'),
+                    125 => array( 'name' => 'Espacios públicos')
             )
         ),
 
