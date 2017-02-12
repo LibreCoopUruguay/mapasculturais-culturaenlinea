@@ -47,16 +47,6 @@ return array(
             )
         ),
 
-        'precisao' => array(
-            'label' => 'Localización',
-            'type' => 'select',
-            'options' => array(
-                '' => 'No informar',
-                'Precisa' => 'Precisa',
-                'Aproximada' => 'Aproximada'
-            )
-        ),
-
         'localizacao' => array(
             'label' => 'Localización',
             'type' => 'select',
