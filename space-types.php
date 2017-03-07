@@ -289,7 +289,8 @@ return array(
             		122 => array( 'name' => 'Usina Cultural' ),
                     123 => array( 'name' => 'Oficina cultural'),
                     124 => array( 'name' => 'Fabrica de Cultura'),
-                    125 => array( 'name' => 'Espacios públicos')
+                    125 => array( 'name' => 'Espacios públicos'),
+                    126 => array( 'name' => 'Instituto')
             )
         ),
 
