@@ -32,5 +32,95 @@ return array(
 
         //        'MapasCulturais\Entities\Agent' => array()
     ),
+    
+    'routes' => array(
+        'default_controller_id' => 'site',
+        'default_action_name' => 'index',
+        'shortcuts' => array(
+            // exemplos de shortcut adicionando parametros
+            'james-bond'                => array('agent', 'single', array('id' => 7)),
+            // 'agente/007'                => array('agent', 'single', array('id' => '007')),
+            // 'teste/de/shortcut/longo'   => array('agent', 'single', array('id' => 'shortcut longo')),
+            //'historico' => array('entityRevision','history',array('entity' => 'event','id' => '6')),
+            'historico' => array('entityRevision','history'),
+            'evento'    => array('event',   'single'),
+            'usuario'   => array('user',    'single'),
+            'agente'    => array('agent',   'single'),
+            'espacio'    => array('space',   'single'),
+            'proyecto'   => array('project', 'single'),
+            'instalacion'=> array('subsite',    'single'),
+             'sello'       => array('seal',    'single'),
+            'salir'      => array('auth',    'logout'),
+            'busqueda'     => array('site',    'search'),
+            'acerca'     => array('site',    'page', array('sobre')),
+            'como-usar' => array('site',    'page', array('como-usar')),
+
+            // workflow actions
+            'aprobar-notificacion' => array('notification', 'approve'),
+            'rechazar-notificacion' => array('notification', 'reject'),
+
+            'inscripcion' => array('registration', 'view'),
+            'certificado' => array('relatedSeal','single'),
+
+
+        ),
+        'controllers' => array(
+            'panel'         => 'panel',
+            'autenticacion'   => 'auth',
+            'sitio'           => 'site',
+            'eventos'        => 'event',
+            'agentes'        => 'agent',
+            'espacios'        => 'space',
+            'archivos'       => 'file',
+            'proyectos'       => 'project',
+            'sellos'          => 'seal',
+            'inscripciones'     => 'registration',
+            'instalaciones'    => 'subsite',
+            'anexos'         => 'registrationfileconfiguration',
+            'revisiones'       => 'entityRevision',
+            'historico'      => 'entityRevision'
+        ),
+        'actions' => array(
+            'lista'         => 'list',
+            'borra'         => 'delete',
+            'edita'         => 'edit',
+            'espacios'       => 'spaces',
+            'agentes'       => 'agents',
+            'eventos'       => 'events',
+            'proyectos'      => 'projects',
+            'subsitio'       => 'subsite',
+            'sellos'         => 'seals',
+            'inscripciones'    => 'registrations',
+            'agente'        => 'agent',
+            'evento'        => 'event'
+        ),
+
+        'readableNames' => array(
+            //controllers
+
+            'panel'         => \MapasCulturais\i::__('Painel'),
+            'auth'          => \MapasCulturais\i::__('Autenticação'),
+            'site'          => \MapasCulturais\i::__('Site'),
+            'event'         => \MapasCulturais\i::__('Evento'),    'events'        => \MapasCulturais\i::__('Eventos'),
+            'agent'         => \MapasCulturais\i::__('Agente'),    'agents'        => \MapasCulturais\i::__('Agentes'),
+            'space'         => \MapasCulturais\i::__('Espaço'),    'spaces'        => \MapasCulturais\i::__('Espaços'),
+            'project'       => \MapasCulturais\i::__('Projeto'),   'projects'      => \MapasCulturais\i::__('Projetos'),
+            'registration'  => \MapasCulturais\i::__('Inscrição'), 'registrations' => \MapasCulturais\i::__('Inscrições'),
+            'file'          => \MapasCulturais\i::__('Arquivo'),   'files'         => \MapasCulturais\i::__('Arquivos'),
+            'seal'          => \MapasCulturais\i::__('Selo'),      'seals'         => \MapasCulturais\i::__('Selos'),
+            'entityRevision'=> \MapasCulturais\i::__('Histórico'), 'revisions'     => \MapasCulturais\i::__('Revisões'),
+            'sealrelation'  => \MapasCulturais\i::__('Certificado'),
+            //actions
+            'subsite'       => \MapasCulturais\i::__('Subsite'),
+            'list'          => \MapasCulturais\i::__('Listando'),
+            'index'         => \MapasCulturais\i::__('Índice'),
+            'delete'        => \MapasCulturais\i::__('Apagando'),
+            'edit'          => \MapasCulturais\i::__('Editando'),
+            'create'        => \MapasCulturais\i::__('Criando novo'),
+            'search'        => \MapasCulturais\i::__('Busca')
+        )
+    )
 
 );
+
+
