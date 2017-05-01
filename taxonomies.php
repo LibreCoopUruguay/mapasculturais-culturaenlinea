@@ -120,7 +120,7 @@ return array(
         	'Reunión',
         	'Seminario',
         	'Taller',
-        	'Visitas Guiadas',
+        	'Visitas',
             'Otros'
         )
     )
