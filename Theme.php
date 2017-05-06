@@ -46,7 +46,13 @@ class Theme extends BaseV1\Theme {
         $app = App::i();
 
         return [
-            'home: welcome' => 'Culturaenlinea.uy es una herramienta colaborativa en la cual tanto los ciudadanos como los actores culturales pueden cargar información visible para todo el que acceda a la plataforma. Permite conocer el escenario cultural de nuestro país, así como también cargar eventos, espacios culturales y realizar convocatorias de los diversos llamados realizados por esta secretaría entre otros.'
+        		'home: title' =>' ',
+            'home: welcome' => 'Culturaenlinea.uy  permite conocer el escenario cultural de nuestro país. Es un espacio colaborativo en el que podés registrarte como agente cultural, difundir tus eventos, subir espacios, proyectos, e inscribirte a las convocatorias y concursos publicados.',
+            'home: colabore' => 'Iniciar sesión',
+            'home: agents' => 'Artistas, gestores, productores, colectivos, etc. Es la red de actores involucrados en el sector cultural del país. Registrate y asociá tu agente con tus eventos, proyectos y espacios culturales.',
+            'home: spaces' => 'Son los espacios físicos donde se desarrollan las actividades artísticas y culturales generadas por los agentes. Se georreferencian y podés subir fotos, videos, actividades, todo lo que allí se desarrolle.',
+            'home: projects' => 'Incluye proyectos culturales, ciclos, exposiciones, talleres, convocatorias y otras acciones desarrolladas en un marco común.',
+            'home: events' => 'Podés registrar tu evento, darlo a conocer y ver otros que te interesen.',
         ];
     }
     
