@@ -160,7 +160,7 @@ return array(
         'agentRelationGroupName' => 'owner',
         'description' => \MapasCulturais\i::__('Agente individual (pessoa física) com os campos CPF, Data de Nascimento/Fundação, Email Privado e Telefone 1 obrigatoriamente preenchidos'),
         'type' => 1,
-        'requiredProperties' => array('documento', 'raca', 'dataDeNascimento', 'genero', 'emailPrivado', 'telefone1')
+        'requiredProperties' => array('documento', 'dataDeNascimento', 'genero', 'emailPrivado', 'telefone1')
     ),
     'registration.agentRelations' => array(
         array(
