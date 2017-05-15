@@ -23,7 +23,7 @@ return array(
 //            )
         ),
 
-        /*
+       /* 
         'raca' => array(
             'private' => true,
             'label' => 'Raza/color',
@@ -37,7 +37,7 @@ return array(
                 'Indígena' => 'Indígena'
             )
         ),
-        */
+       */
         'dataDeNascimento' => array(
             'private' => true,
             'label' => 'Fecha de nacimiento/fundación',
@@ -186,13 +186,7 @@ return array(
             )
         ],
 
-        'site' => array(
-            'label' => 'Sitio web',
-         //   'validations' => array(
-         //       "v::url()" => "La url informada no es válida. Deber comenzar con http://"
-        //    )
-        ),
-        'facebook' => array(
+       'facebook' => array(
             'label' => 'Facebook',
         //    'validations' => array(
          //       "v::url('facebook.com')" => "La url informada no es válida. Deber comenzar con http://"

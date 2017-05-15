@@ -59,12 +59,7 @@ return array(
             )
         ),
 
-        'site' => array(
-            'label' => 'Sitio',
-          //  'validations' => array(
-          //      "v::url()" => "La url informada no es válida. Deber comenzar con http://"
-           // )
-        ),
+        
         'facebook' => array(
             'label' => 'Facebook',
         //    'validations' => array(
