@@ -38,12 +38,12 @@ class Theme extends BaseV1\Theme {
         
         // custom images
         
-        $this->getAssetManager()->publishAsset('img/home01.jpg');
-        $this->getAssetManager()->publishAsset('img/home02.jpg');
-        $this->getAssetManager()->publishAsset('img/home03.jpg');
-        $this->getAssetManager()->publishAsset('img/home04.jpg');
-        $this->getAssetManager()->publishAsset('img/home05.jpg');
-        $this->getAssetManager()->publishAsset('img/home06.jpg');
+        $this->getAssetManager()->assetUrl('img/home01.jpg');
+        $this->getAssetManager()->assetUrl('img/home02.jpg');
+        $this->getAssetManager()->assetUrl('img/home03.jpg');
+        $this->getAssetManager()->assetUrl('img/home04.jpg');
+        $this->getAssetManager()->assetUrl('img/home05.jpg');
+        $this->getAssetManager()->assetUrl('img/home06.jpg');
         
     }
 
