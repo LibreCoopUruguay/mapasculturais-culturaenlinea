@@ -36,6 +36,15 @@ class Theme extends BaseV1\Theme {
             echo '<div ng-if="space.En_Estado"><span class="label">Departamento:</span> {{space.En_Estado}}</div>';
         });
         
+        // custom images
+        
+        $this->getAssetManager()->assetUrl('img/home01.jpg');
+        $this->getAssetManager()->assetUrl('img/home02.jpg');
+        $this->getAssetManager()->assetUrl('img/home03.jpg');
+        $this->getAssetManager()->assetUrl('img/home04.jpg');
+        $this->getAssetManager()->assetUrl('img/home05.jpg');
+        $this->getAssetManager()->assetUrl('img/home06.jpg');
+        
     }
 
     static function getThemeFolder() {
