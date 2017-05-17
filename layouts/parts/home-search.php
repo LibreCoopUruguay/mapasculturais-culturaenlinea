@@ -1,9 +1,9 @@
 <section id="home-intro" class="js-page-menu-item home-entity clearfix">
 <div class="branding">
-        <span class="tipo">Cultura en línea</span>
-        <h1>Culturaenlinea.uy</h1>
+        <!--<span class="tipo">Cultura en línea</span>
+        <h1>Culturaenlinea.uy</h1>-->
         <p class="text">
-        		Permite conocer el escenario cultural de nuestro país. Es un espacio colaborativo en el que podés registrarte como agente cultural, difundir tus eventos, subir espacios, proyectos, e inscribirte a las convocatorias y concursos publicados.
+        		Culturaenlinea.uy permite conocer el escenario cultural de nuestro país. Es un espacio colaborativo en el que podés registrarte como agente cultural, difundir tus eventos, subir espacios, proyectos, e inscribirte a las convocatorias y concursos publicados.
         </p>
         <p class="text" style="font-size:10px !important; line-height:16px;">
 				Toda la información ingresada es responsabilidad exclusiva del usuario que la pública. En caso de encontrar información inexacta, fraudulenta u ofensiva comunicalo a través del formulario del sitio.   
