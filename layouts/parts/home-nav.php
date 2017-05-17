@@ -1,7 +1,8 @@
 <nav id="home-nav">
     <ul>
         <li><a class="up icon icon-arrow-up" href="#"></a></li>
-        <li id="nav-intro">
+
+       <li id="nav-intro">
             <a class="icon icon-home" href="#home-intro"></a>
             <span class="nav-title"><?php \MapasCulturais\i::_e("Introdução");?></span>
         </li>
