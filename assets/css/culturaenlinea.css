@@ -94,6 +94,10 @@
     margin: 0 auto 0 30%;
 }
 
+.home-entity .random-feature {
+    display: none;
+}
+
 #home-intro .view-more {
 	position:relative;
 	z-index:901;
