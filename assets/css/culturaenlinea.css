@@ -447,3 +447,11 @@ article.project .header-image,article.registration .header-image {
 
 #nav-developers {
   background: #9966cc; }
+  
+/*aumento el alto de los widgets derechos*/  
+.widget .slimScrollDiv {
+max-height: 400px !important;}
+
+ul.widget-list.js-slimScroll{
+		max-height: 400px !important;
+}
