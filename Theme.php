@@ -44,6 +44,10 @@ class Theme extends BaseV1\Theme {
         $this->getAssetManager()->assetUrl('img/home04.jpg');
         $this->getAssetManager()->assetUrl('img/home05.jpg');
         $this->getAssetManager()->assetUrl('img/home06.jpg');
+        $this->getAssetManager()->assetUrl('img/tour01.png');
+        $this->getAssetManager()->assetUrl('img/tour02.png');
+        $this->getAssetManager()->assetUrl('img/tour03.png');
+        $this->getAssetManager()->assetUrl('img/tour04.png');
         
     }
 
@@ -62,7 +66,7 @@ class Theme extends BaseV1\Theme {
             'home: spaces' => 'Son los espacios físicos donde se desarrollan las actividades artísticas y culturales generadas por los agentes. Se georreferencian y podés subir fotos, videos, actividades, todo lo que allí se desarrolle.',
             'home: projects' => 'Incluye proyectos culturales, ciclos, exposiciones, talleres, convocatorias y otras acciones desarrolladas en un marco común.',
             'home: events' => 'Podés registrar tu evento, darlo a conocer y ver otros que te interesen.',
-            'home: home_devs' => 'Hay varias formas en las que los desarrolladores interactúan con la plataforma. La primera es a través de nuestra <a href="https://github.com/LibreCoopUruguay/mapasculturais/blob/master/documentation/docs/mc_config_api.md" target="_blank">API</a>. Con ella se puede acceder a los datos públicos de nuestra base de datos y utilizarlos para desarrollar aplicaciones externas. Además, el sistema fue desarrollado a partir del software libre <a href="http://institutotim.org.br/project/mapas-culturais/" target="_blank">Mapas Culturais</a>, creado por Hacklabr en asociación con el Instituto TIM y adaptado para el M.E.C. por <a href="http://libre.coop/" target="_blank">Libre Coop</a>. Puede contribuir con su desarrollo a través de <a href="https://github.com/LibreCoopUruguay/mapasculturais-culturaenlinea" target="_blank">GitHub.</a>',
+            'home: home_devs' => 'Hay varias formas en las que los desarrolladores interactúan con la plataforma. La primera es a través de nuestra <a href="https://github.com/LibreCoopUruguay/mapasculturais/blob/master/documentation/docs/mc_config_api.md" target="_blank">API</a>. Con ella se puede acceder a los datos públicos de nuestra base de datos y utilizarlos para desarrollar aplicaciones externas. Además, el sistema fue desarrollado a partir del software libre <a href="http://institutotim.org.br/project/mapas-culturais/" target="_blank">Mapas Culturais</a>, creado por Hacklabr en asociación con el Instituto TIM y adaptado para Cultura|MEC por <a href="http://libre.coop/" target="_blank">Libre Coop</a>. Puede contribuir con su desarrollo a través de <a href="https://github.com/LibreCoopUruguay/mapasculturais-culturaenlinea" target="_blank">GitHub.</a>',
         ];
     }
     
