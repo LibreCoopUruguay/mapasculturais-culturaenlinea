@@ -56,6 +56,12 @@ return array(
            //     "v::url('plus.google.com')" => "La url informada no es válida. Deber comenzar con http://"
            // )
         ),
+        'instagram' => array(
+            'label' => \MapasCulturais\i::__('Instagram'),
+            'validations' => array(
+                "v::startsWith('@')" => \MapasCulturais\i::__("O usuário informado é inválido. Informe no formato @usuario e tente novamente")
+            )
+        ),
         
         'registrationSeals' => array(
                 'label' => \MapasCulturais\i::__('Selos'),

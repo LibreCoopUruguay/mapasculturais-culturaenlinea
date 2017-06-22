@@ -59,7 +59,12 @@ return array(
             )
         ),
 
-        
+        'site' => array(
+            'label' => \MapasCulturais\i::__('Site'),
+            'validations' => array(
+                "v::url()" => \MapasCulturais\i::__("A url informada é inválida.")
+            )
+        ),
         'facebook' => array(
             'label' => 'Facebook',
         //    'validations' => array(
@@ -77,6 +82,12 @@ return array(
          //   'validations' => array(
          //       "v::url('plus.google.com')" => "La url informada no es válida. Deber comenzar con http://"
          //   )
+        ),
+        'instagram' => array(
+            'label' => \MapasCulturais\i::__('Instagram'),
+            'validations' => array(
+                "v::startsWith('@')" => \MapasCulturais\i::__("O usuário informado é inválido. Informe no formato @usuario e tente novamente")
+            )
         ),
 
     ),
