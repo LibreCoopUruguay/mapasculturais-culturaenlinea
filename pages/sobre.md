@@ -6,7 +6,7 @@ En julio de 2013, agentes culturales de diferentes países de América Latina y 
 
 Mapas Culturales es una plataforma colaborativa que reúne información sobre los agentes, lugares, eventos y proyectos culturales, dando al gobierno una instantánea de la cultura de la zona y un mapa de los espacios ciudadanos y eventos culturales en la región. La plataforma está alineada con el Sistema Nacional de Información e Indicadores Culturales del Ministerio de Cultura (SNIIC) y contribuye a la realización de algunos de los objetivos del Plan Nacional de Cultura.
 
-El Instituto TIM, en colaboración con una serie de Departamentos Cultura, ha actuado para la ejecución de los Mapas Culturales en la gestión pública de las ciudades y estados de Brasil. La plataforma ya está en uso, por ejemplo, en <a href="http://spcultura.prefeitura.sp.gov.br/">São Paulo</a> y en el estado de <a href="http://mapa.cultura.rs.gov.br/">Río Grande do Sul</a>.
+El <a href="http://institutotim.org.br/">Instituto TIM</a>, en colaboración con una serie de Departamentos Cultura, ha actuado para la ejecución de los Mapas Culturales en la gestión pública de las ciudades y estados de Brasil. La plataforma ya está en uso, por ejemplo, en <a href="http://spcultura.prefeitura.sp.gov.br/">São Paulo</a>.
 
 En Julio de 2015 <a href="http://libre.coop/">Libre Coop</a> comenzó este proyecto de traducción y adaptación de la plataforma para la <a href="http://cultura.mec.gub.uy/">Dirección de Cultura</a> del <a href="http://www.mec.gub.uy/"> Ministerio de Educación y Cultura</a> de Uruguay.
 
