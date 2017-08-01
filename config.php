@@ -197,7 +197,44 @@ return array(
 
         //        'MapasCulturais\Entities\Agent' => array()
     ),
-/* ======================= ! ============================== */
+    
+/* ======================= configuraciones del mailer ============================== */
+
+'mailer.templates' => [
+        'welcome' => [
+            'title' => \MapasCulturais\i::__("Bem-vindo(a) ao Mapas Culturais"),
+            'template' => 'welcome.html'
+        ],
+        'last_login' => [
+            'title' => \MapasCulturais\i::__("Acesse a Mapas Culturais"),
+            'template' => 'last_login.html'
+        ],
+        'new' => [
+            'title' => \MapasCulturais\i::__("Novo registro"),
+            'template' => 'new.html'
+        ],
+        'update_required' => [
+            'title' => \MapasCulturais\i::__("Acesse a Mapas Culturais"),
+            'template' => 'update_required.html'
+        ],
+        'compliant' => [
+            'title' => \MapasCulturais\i::__("Denúncia - Mapas Culturais"),
+            'template' => 'compliant.html'
+        ],
+        'suggestion' => [
+            'title' => \MapasCulturais\i::__("Mensagem - Mapas Culturais"),
+            'template' => 'suggestion.html'
+        ],
+        'seal_toexpire' => [
+            'title' => \MapasCulturais\i::__("Selo Certificador Expirando"),
+            'template' => 'seal_toexpire.html'
+        ],
+        'seal_expired' => [
+            'title' => \MapasCulturais\i::__("Selo Certificador Expirado"),
+            'template' => 'seal_expired.html'
+        ]
+
+    ],
 
 );
 
