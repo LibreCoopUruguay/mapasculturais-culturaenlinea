@@ -48,6 +48,7 @@ class Theme extends BaseV1\Theme {
         $this->getAssetManager()->assetUrl('img/tour02.png');
         $this->getAssetManager()->assetUrl('img/tour03.png');
         $this->getAssetManager()->assetUrl('img/tour04.png');
+        $this->getAssetManager()->assetUrl('img/share.png');
         
     }
 
