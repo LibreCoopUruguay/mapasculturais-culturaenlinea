@@ -6,7 +6,7 @@
         <p class="registration-help">
             <strong>
                 <?php // gets full date in the format "26 de {January} de 2015 às 17:00" and uses App translation to replace english month name inside curly brackets to the equivalent in portuguese. It avoids requiring the operating system to have portuguese locale as used in this example: http://pt.stackoverflow.com/a/21642
-                $date = strftime("%d de {%B} de %G , %H:%M", $entity->project->registrationTo->getTimestamp());
+                $date = strftime("%G,%V,%Y , %H:%M", $entity->project->registrationTo->getTimestamp());
                 $full_date = preg_replace_callback("/{(.*?)}/", function($matches) use ($app) {
                     return strtolower($app::txt(str_replace(['{', '}'], ['',''], $matches[0]))); //removes curly brackets from the matched pattern and convert its content to lowercase
                 }, $date);
