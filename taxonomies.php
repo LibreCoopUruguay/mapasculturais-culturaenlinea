@@ -6,7 +6,8 @@ return array(
             'MapasCulturais\Entities\Space',
             'MapasCulturais\Entities\Agent',
             'MapasCulturais\Entities\Event',
-            'MapasCulturais\Entities\Project'
+            'MapasCulturais\Entities\Project',
+            'MapasCulturais\Entities\Opportunity'
         )
     ),
 
