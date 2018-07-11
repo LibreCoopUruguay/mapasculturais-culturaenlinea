@@ -455,3 +455,7 @@ max-height: 400px !important;}
 ul.widget-list.js-slimScroll{
 		max-height: 400px !important;
 }
+
+.tag-opportunity {
+    background-color: #F232D4;
+}
