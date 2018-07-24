@@ -1,8 +1,7 @@
 <nav id="home-nav">
     <ul>
         <li><a class="up icon icon-arrow-up" href="#"></a></li>
-
-       <li id="nav-intro">
+        <li id="nav-intro">
             <a class="icon icon-home" href="#home-intro"></a>
             <span class="nav-title"><?php \MapasCulturais\i::_e("Introdução");?></span>
         </li>        
@@ -33,6 +32,13 @@
                 <a class="icon icon-event" href="#home-events"></a>
                 <span class="nav-title"><?php $this->dict('entities: Events') ?></span>
             </li>
+        <?php endif; ?>
+
+	<?php if($app->isEnabled('opportunities')): ?>
+            <li id="nav-opportunities">
+                <a class="icon icon-opportunity" href="#home-opportunities"></a>
+                <span class="nav-title"><?php $this->dict('entities: Opportunities') ?></span>
+	    </li>
         <?php endif; ?>
 
         <li id="nav-developers">
