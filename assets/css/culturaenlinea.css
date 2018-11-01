@@ -24,7 +24,7 @@
 		margin-left:0rem;
 		line-height:1;
 	}
-	#home-intro .box, #home-events .box, #home-agents .box, #home-projects .box, #home-spaces .box, #home-developers .box {
+	#home-opportunities .box, #home-intro .box, #home-events .box, #home-agents .box, #home-projects .box, #home-spaces .box, #home-developers .box {
    	margin: 0 auto 0 0 !important;
    /* margin-top: 5em;*/
 	}	  
@@ -43,7 +43,7 @@
 		margin-left:0rem;
 		line-height:1;
 	}
-	#home-intro .box, #home-events .box, #home-agents .box, #home-projects .box, #home-spaces .box, #home-developers .box {
+	#home-opportunities .box, #home-intro .box, #home-events .box, #home-agents .box, #home-projects .box, #home-spaces .box, #home-developers .box {
    	margin: 0 auto 0 0 !important;
    /* margin-top: 5em;*/
 	}	  
@@ -89,9 +89,9 @@
 	padding-top: 8em;
 }
 
-#home-intro .box, #home-events .box, #home-agents .box, #home-projects .box, #home-spaces .box, #home-developers .box {
+#home-opportunities .box, #home-intro .box, #home-events .box, #home-agents .box, #home-projects .box, #home-spaces .box, #home-developers .box {
     float: none;
-    margin: 0 auto 0 30%;
+    margin: 0 auto 0 30% !important;
 }
 
 .home-entity .random-feature {
@@ -455,3 +455,7 @@ max-height: 400px !important;}
 ul.widget-list.js-slimScroll{
 		max-height: 400px !important;
 }
+.tag-opportunity {
+    background-color: #F232D4;
+}
+
