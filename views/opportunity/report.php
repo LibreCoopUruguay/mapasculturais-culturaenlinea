@@ -50,7 +50,7 @@ ksort($custom_fields);
     }
 </style>
 
-<table>
+<table width="100%">
     <thead>
         <tr>
             <th> <?php i::_e("Número") ?> </th>
@@ -62,12 +62,19 @@ ksort($custom_fields);
             <th><?php i::_e("Inscrição - Data de envio") ?></th>
             <th><?php i::_e("Inscrição - Hora de envio") ?></th>
             <?php showIfField($entity->registrationCategories, $entity->registrationCategTitle); ?>
+
 				<th> <?php i::_e("Agente") ?> </th>
             <th> <?php i::_e("Email publico") ?> </th>
             <th> <?php i::_e("Email privado") ?> </th>
             <th> <?php i::_e("Telefone Publico") ?> </th>
             <th> <?php i::_e("Telefone 1") ?> </th>
             <th> <?php i::_e("Telefone 2") ?> </th>
+
+            <?php
+            foreach($custom_fields as $field)
+                echo "<th>" . $field['title'] . "</th>";
+            ?>
+
             <th><?php i::_e('Anexos') ?></th>
 
         </tr>
@@ -87,7 +94,7 @@ ksort($custom_fields);
 
                 <?php showIfField($entity->registrationCategories, $r->category); ?>
 
-                <?php $agent = $r->owner;  ?>
+					 <?php $agent = $r->owner;  ?>
                 <?php if(!empty($agent)): ?>
                     <td><a href="<?php echo $agent->singleUrl; ?>" target="_blank"><?php echo $agent->name; ?></a></td>
                     <td><?php echo $agent->emailPublico; ?></td>
@@ -95,18 +102,27 @@ ksort($custom_fields);
                     <td><?php echo $agent->telefonePublico; ?></td>
                     <td><?php echo $agent->telefone1; ?></td>
                     <td><?php echo $agent->telefone2; ?></td>
-                    
-                    <td>
-                    <?php if(key_exists('zipArchive', $r->files)): ?>
-                        <a href="<?php echo $r->files['zipArchive']->url; ?>"><?php i::_e("zip");?></a>
-                     <?php endif; ?>
-                </td>
-
                 <?php else: ?>
                     str_repeat('<td></td>', 7);
                 <?php endif; ?>
 
-               
+                <?php
+                foreach($custom_fields as $field):
+                    $_field_val = (isset($field["field_name"])) ? $r->{$field["field_name"]} : "";
+
+                    echo "<td>";
+                        echo (is_array($_field_val)) ? implode(", ", $_field_val) : $_field_val;
+                    echo "</td>";
+
+                    endforeach;
+                ?>
+
+                <td>
+                    <?php if(key_exists('zipArchive', $r->files)): ?>
+                        <a href="<?php echo $r->files['zipArchive']->url; ?>"><?php i::_e("zip");?></a>
+                     <?php endif; ?>
+                </td>
+                               
             </tr>
         <?php endforeach; ?>
     </tbody>
