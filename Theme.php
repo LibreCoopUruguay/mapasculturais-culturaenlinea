@@ -15,7 +15,7 @@ class Theme extends BaseV1\Theme {
         
         // Mensagem na página de login/registro
         $app->hook('multipleLocalAuth.loginPage:end', function() {
-            echo '<p><font size=3>(*) Sus datos personales (nombre, email)  son almacenados amparados en la Ley 18.831 de protección de datos personales</font></p>';
+            echo '<p><font size=3>(*) Sus datos personales (nombre, email)  son almacenados amparados en la Ley 18.331 de protección de datos personales</font></p>';
         });
         
         // Adiciona JS

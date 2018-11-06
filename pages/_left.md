@@ -1,2 +1,4 @@
-- [Sobre {{dict: site: name}}](/sobre/)
+- [Acerca de {{dict: site: name}}](/acerca/)
 - [Cómo usar](/como-usar/)
+- [Términos y condiciones](/sitio/page/terminos-y-condiciones/)
+- [Política de privacidad](/sitio/page/politica-de-privacidad/)
