@@ -40,11 +40,13 @@ class Theme extends BaseV1\Theme {
 /*===========================mail to=======================================*/
 
 			$app->hook('mapasculturais.suggestionMessage.destination', function(&$to) {
-			$to = array("soporte-dnc@libre.coop","isidoro.rodriguez@mec.gub.uy","santiagomiranda0@gmail.com","yisus.stark.22@gmail.com","victoriaripa.cultura@gmail.com");
+			//$to = array("soporte-dnc@libre.coop","isidoro.rodriguez@mec.gub.uy","santiagomiranda0@gmail.com","yisus.stark.22@gmail.com","victoriaripa.cultura@gmail.com");
+			$to = array("soporte-dnc@libre.coop");
 			});
 			
 			$app->hook('mapasculturais.complaintMessage.destination', function(&$to) {
-			$to = array("soporte-dnc@libre.coop","isidoro.rodriguez@mec.gub.uy","santiagomiranda0@gmail.com","yisus.stark.22@gmail.com","victoriaripa.cultura@gmail.com");
+			//$to = array("soporte-dnc@libre.coop","isidoro.rodriguez@mec.gub.uy","santiagomiranda0@gmail.com","yisus.stark.22@gmail.com","victoriaripa.cultura@gmail.com");
+			$to = array("soporte-dnc@libre.coop");
 			});
         
         

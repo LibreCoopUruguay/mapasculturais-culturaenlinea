@@ -1,33 +1,162 @@
-# Términos y condiciones
+**POLÍTICA DE PRIVACIDAD**
 
-## 1\. Alcance del aviso legal y las condiciones de uso
+  
 
-El dominio [mi.iduruguay.gub.uy](https:/mi.iduruguay.gub.uy/) y sus subdominios dependientes son titularidad de [AGESIC](https://www.agesic.gub.uy/), con sede en la Calle Liniers, nº1324 - piso 4, 11000, Montevideo- Uruguay. Teléfono +59829012929.
+Las presentes condiciones regulan el acceso y uso de la plataforma “Culturaenlinea.uy” creada con la finalidad de dar cumplimiento a lo dispuesto en el artículo 213° de la ley N° 18.172 del 7 de setiembre de 2007, por el cual se establece que será cometido de la Dirección Nacional de Cultura (DNC), promover, coordinar, administrar y ejecutar los proyectos de desarrollo de la cultura, de cargo del Gobierno Nacional.
 
-## 2\. Condiciones generales
+  
 
-El uso del Portal implica la expresa y plena aceptación de las condiciones aquí expuestas, sin perjuicio de aquellas particulares que pudieran aplicarse a algunos de los servicios concretos ofrecidos a través del mismo. El Portal cumple la función de información general y atención al ciudadano en los términos de lo establecido en la [Ley 18.381 de 17 de octubre de 2008 sobre el Acceso a la Información Pública](https://legislativo.parlamento.gub.uy/temporales/leytemp338201.htm), por el que se regulan los servicios de información administrativa y de atención al ciudadano y los derechos de esos a disponer de la información generada por las administraciones, teniendo carácter meramente informativo y sin que en ningún caso pueda derivarse de ellos efecto jurídico vinculante alguno. Su contenido es meramente informativo y carece de efectos jurídicos vinculantes para la Administración, salvo los derivados de procedimientos de gestión expresamente permitidos. El organismo podrá efectuar, en cualquier momento y sin necesidad de previo aviso, modificaciones y actualizaciones sobre la información contenida en su portal o en su configuración o presentación, así como suspender temporalmente el acceso al mismo de forma discrecional o temporal.
+La utilización de los servicios del referido Sistema atribuye la condición de usuario e implica la aceptación de las presentes disposiciones, así como de sus futuras modificaciones. Estas podrán ser modificadas en cualquier momento y sin previo aviso, cobrando vigencia a partir del momento en que tales modificaciones sean difundidas a través del Sistema mencionado.
 
-## 3\. Protección de datos
+  
 
-El Organismo responsable de la Base de Datos es la Agencia para el Desarrollo del Gobierno de Gestión Electrónica y la Sociedad de la Información y del Conocimiento. El acceso a los datos personales contenidos en la Base de Datos está expresamente previsto en la [Ley 18.331](https://legislativo.parlamento.gub.uy/temporales/leytemp338201.htm). En caso de que el Usuario desee ejercer sus derechos, podrá enviar una solicitud vía web desde el correo electrónico constituido a soporte@agesic.gub.uy. El usuario autoriza expresamente a la Agencia para el Desarrollo del Gobierno de Gestión Electrónica y la Sociedad de la Información y del Conocimiento a emplear la dirección de correo electrónico denunciada para la remisión de novedades, encuestas, y demás información relativa al sistema ID Uruguay.
+Los Usuarios se obligan a hacer buen uso del Sistema respetando la normativa vigente en relación a la ley N° 18.331, de 11 de agosto de 2008, de protección de datos personales y acción de habeas data. En caso contrario, la DNC queda facultada para revocar la habilitación del usuario en el Sistema.
 
-## 4\. Propiedad intelectual
+  
 
-Los contenidos, organización y elección de enlaces de las páginas de este portal han sido seleccionados y coordinados por AGESIC. Esta información puede ser utilizada en parte o en su integridad siempre que se cite su origen, con excepción de los contenidos sobre los que existan derechos de propiedad intelectual o industrial por parte de terceros. Como facilitador del conocimiento y la información se posibilita el acceso a páginas externas sobre las que el organismo no tiene control alguno y respecto de las cuales declina toda responsabilidad. El diseño del portal y su código fuente, logos, marcas y demás signos distintivos que aparecen en el mismo pertenecen a AGESIC, o a sus organismos dependientes, y están protegidos por los correspondientes derechos de propiedad intelectual e industrial. Su uso, reproducción, distribución, comunicación pública, transformación o cualquier otra actividad similar o análoga, queda totalmente prohibida salvo que medie expresa autorización de AGESIC. La licencia de uso de cualquier contenido de este Portal otorgada al usuario se limita a la descarga por parte del usuario de dicho contenido y el uso privado del mismo, siempre que los citados contenidos permanezcan íntegros.
+Los datos de los usuarios estarán comprendidos bajo la ley N° 18.331, no obstante, todos los datos que sean cargados de forma pública estarán a disposición de los usuarios de la plataforma para ser descargados en bases de datos de libre acceso.
 
-## 5\. Derechos de autor
+  
 
-AGESIC declara su respeto a los derechos de propiedad intelectual e industrial de terceros; por ello, si considera que este sitio pudiera estar violando sus derechos, descritos en las [Leyes N° 9.739 de 17 de diciembre de 1937](https://legislativo.parlamento.gub.uy/temporales/leytemp9886385.htm) y [N° 17.616 de 10 de enero](https://legislativo.parlamento.gub.uy/temporales/leytemp2047657.htm) , rogamos se pongan en contacto con nosotros para comunicarnos cualquier incidencia en el siguiente formulario: [Contacto](https://mi.iduruguay.gub.uy/contacto)
+**TÉRMINOS Y CONDICIONES DE USO**
 
-# Habilitación de usuario para ID Uruguay
+  
 
-**Primero:** Por el presente se solicita la habilitación de usuario para relacionarse electrónicamente con el Estado uruguayo.
+**1.Introducción**
 
-**Segundo:** El usuario se obliga a hacer un uso adecuado del código de usuario y contraseña provistas. El uso inadecuado de cualquiera de dichos elementos habilitará a la Agencia para el Desarrollo del Gobierno de Gestión Electrónica y la Sociedad de la Información y del Conocimiento (AGESIC) a revocar la habilitación en el Sistema.
+  
 
-**Tercero:** El usuario acepta expresamente la recepción por correo electrónico -declarado como primario- de las instrucciones necesarias para utilizar el Sistema y las demás aplicaciones a las que se adhiera, a partir de la habilitación correspondiente.
+Bienvenidos a Culturaenlinea.uy, usted podrá utilizar los servicios de la plataforma de acuerdo a los siguientes Términos y Condiciones.
 
-**Cuarto:** En cumplimiento de las normas legales y reglamentarias en materia de protección de datos se informa que los datos personales consignados en el presente formulario serán incorporados y tratados en la Base de Datos del Sistema de Usuarios Únicos de la Plataforma de Gobierno Electrónico, cuya finalidad es contar con la información necesaria para utilizar aplicaciones puestas a disposición por las Entidades Públicas. El responsable de la Base de Datos es la AGESIC, y la dirección donde se podrán ejercer los derechos de acceso, rectificación, actualización, inclusión o supresión es Liniers 1324, piso 4º, Torre Ejecutiva Sur, de la ciudad de Montevideo, Uruguay.
+  
 
-Para poder acceder a aquellas aplicaciones del Estado que requieran acreditar tu identidad es necesario que se firme este contrato utilizando Firma Electrónica Avanzada o se te acredite tu identidad presencialmente.
+En virtud que los Términos pueden ser modificados en cualquier momento por la DNC, se recomienda al usuario su atenta lectura en cada una de las ocasiones en que se proponga utilizar el sitio. Las nuevas versiones entrarán en vigor a partir del momento de su publicación en el Portal.
+
+  
+
+Culturaenlinea.uy es una herramienta colaborativa cuyo fin es contribuir al desarrollo de políticas culturales, al tiempo que mapea, reúne y ofrece a la ciudadanía información sobre eventos, convocatorias y agentes culturales del país.
+
+  
+
+Desde el punto de vista de la gestión, la información que brinda la plataforma permite una mejor planificación de las acciones de los gestores culturales y el fortalecimiento de los procesos de coordinación local y acciones culturales territoriales. La recopilación de datos sobre la producción cultural en el país permite generar indicadores para medir la eficacia de las políticas culturales.
+
+  
+
+La plataforma está abierta a cualquier persona, se puede participar mediante cinco entidades conectadas entre sí e interdependientes; Agentes, Espacios, Proyectos, Oportunidades y Eventos.
+
+  
+
+El agente es la primera entidad que debe ser definida por el usuario, sin este no se podrán administrar otras entidades. Es importante diferenciar el concepto de usuario del concepto de agente. Usuario es la persona registrada, a la cual se le solicita llenar el formulario de registro, es decir debe tener un correo electrónico válido, ya que será la información que figurará en la base de datos asociada a ese usuario.
+
+  
+
+Un usuario puede tener uno o más agentes, y estos pueden ser tanto individuales como colectivos.
+
+  
+
+Cada Usuario es responsable de la información que publique en cada entidad de su pertenencia.
+
+  
+
+En esta plataforma usted podrá acceder también a datos sobre agentes culturales, espacios y actividades culturales relacionadas-
+
+  
+
+Las bases de datos que se encuentran disponibles para su descarga están conformadas por los datos proporcionados por las instituciones y los particulares que acceden a ella de acuerdo a las políticas de privacidad que deben ser aceptadas para hacer uso del sitio y que se recomienda leer con atención al igual que le recomendamos revisar las opciones de privacidad que tiene disponibles en la configuración.
+
+  
+
+En la medida de que la recolección de datos es colaborativa y cuenta con la participación activa de las personas, la información no es estática, se inserta en un proceso de actualización constante.
+
+  
+
+Los datos proporcionados por los usuarios con su consentimiento, alimentan las distintas bases de datos que se encuentran disponibles para ser descargadas. Las bases de datos corresponden a las cinco entidades principales de la plataforma: eventos, espacios, agentes, proyectos y oportunidades. Cada una de estas bases de datos son descargables por cualquier usuario. Los datos contenidos en las mismas son los datos que se visualizan públicamente en la plataforma.
+
+La Dirección Nacional de Cultura no se hace responsable por la utilización de estos datos, por parte de terceros.
+
+  
+
+Los datos proporcionados en la **participación de convocatorias de la Dirección Nacional de Cultura,** se rigen bajo las políticas de privacidad previamente descritas y en el marco de la ley N° 18.331, de 11 de agosto de 2008.
+
+  
+
+Cultura en línea tiene un equipo de servicio técnico que revisa periódicamente el nuevo contenido de la plataforma con el fin de que las cinco entidades antes mencionadas sean utilizadas bajo la normativa vigente en referencia a las políticas de privacidad y fines del sitio, en caso de incumplimiento, el equipo informará al o los agentes responsables para modificar el contenido publicado o eliminarlo y publicarlo mediante la entidad correspondiente.
+
+  
+
+Los administradores se reservan el derecho de modificar, archivar y/o eliminar contenido en caso de incumplimiento de los términos de uso y políticas de privacidad, acordados anteriormente.
+
+  
+
+#### **2. Aceptación de los Términos y Condiciones**
+
+  
+
+Los presentes Términos y Condiciones regulan el uso del servicio del portal de Cultura en Línea que pertenece a la Dirección Nacional de Cultura del Ministerio de Educación y Cultura (MEC), el cual se pone a disposición de los usuarios de Internet.
+
+La Dirección Nacional de Cultura tiene su domicilio en Paraguay 1176 de la ciudad de Montevideo, Uruguay.
+
+Dicha adhesión se instrumenta en la aceptación a los términos y condiciones publicados en las plataformas web administradas por MEC, así como las condiciones particulares que pudieren dictarse para cada sitio web al momento de acceder y/o utilizar cualquier servicio del catálogo, cuyo uso y acceso a los contenidos se efectuará bajo su entera responsabilidad.
+
+Por su parte, cada sitio web podrá contener condiciones particulares, de acuerdo con el criterio que establezca la entidad encargada de la administración de sus contenidos.
+
+Los presentes Términos y Condiciones son aplicables a toda persona física, jurídica, entidad pública, estatal o no, que acceda, descargue, utilice, reutilice y/o redistribuya información contenida en el portal, directamente o a través de una aplicación informática. Los términos y condiciones vincularán a cualquier Usuario por el mero hecho de hacer uso de los documentos sometidos a ellas.
+
+####   
+
+#### **3. Obligaciones de los Usuarios**
+
+Son obligaciones de los Usuarios en general:
+
+- No dañar, inutilizar o deteriorar los sistemas informáticos de la entidad o de terceros, ni los contenidos incorporados y/o almacenados en éstos.
+
+- No modificar los sistemas de la entidad de ninguna manera, no utilizar versiones de sistemas modificados con el fin de obtener acceso no autorizado a cualquier contenido y/o servicios del sitio.
+
+- No interferir ni interrumpir el acceso y utilización del sitio, servidores o redes conectados al mismo, o incumplir los requisitos, procedimientos y regulaciones de la política de conexión de redes.
+
+El MEC podrá actuar contra cualquier utilización del sitio por parte del Usuario que:
+
+- No esté de acuerdo con los términos establecidos.
+
+- Infrinja o vulnere los derechos de propiedad intelectual e industrial u otros análogos de la entidad pública.
+
+  
+El MEC se reserva la facultad de modificación, en cualquier momento, sin aviso previo, de la presentación, configuración del sitio, de los contenidos y servicios que en él se incorporan. Podrá asimismo, interrumpir, desactivar y/o cancelar cualquiera de los contenidos y/o servicios que se integran en éste.
+
+#### **4. Propiedad Intelectual**
+
+Todas las marcas, nombres comerciales o signos distintivos de cualquier clase que eventualmente aparezcan en este sitio web son propiedad del MEC o de terceros (agentes culturales registrados en la plataforma), sin que pueda entenderse que el uso o acceso al sitio atribuye al Usuario derecho alguno sobre las citadas marcas, nombres comerciales o signos distintivos de cualquier clase.
+
+#### **5. Exclusión de garantías y de responsabilidad**
+
+La veracidad, integridad y actualidad de los contenidos publicados en el portal de Cultura en Línea son de exclusiva responsabilidad de la entidad pública que los proporciona.
+
+El MEC se exonera de cualquier responsabilidad por los daños y perjuicios de toda naturaleza que puedan deberse a la falta de disponibilidad o continuidad del funcionamiento del portal o de los servicios, o la defraudación de la utilidad que los usuarios hubieren podido atribuir al sitio web y a los servicios, a la fiabilidad de éstos, y en particular, aunque no de modo exclusivo, a los fallos en el acceso a las distintas páginas web o a aquéllas desde las que se prestan los servicios. Cuando se trate de interrupciones programadas, las mismas serán anunciadas en el sitio.
+
+Tanto el acceso a la web como el uso sin consentimiento que pueda efectuarse de la información contenida en la misma es de exclusiva responsabilidad de quien la realiza. El MEC no responderá de ninguna consecuencia, daño o perjuicio que pueda derivarse de dicho acceso o uso.
+
+#### **6. Link o enlace a terceros sitios**
+
+El sitio de Cultura en Línea puede contener dispositivos técnicos de enlace que ponen a disposición de los Usuarios (tales como links, banners, botones), directorios y herramientas de búsqueda que permiten a los Usuarios acceder a sitios web pertenecientes a terceros. La instalación de estos enlaces, directorios y herramientas de búsqueda en el Sitio tienen por único objeto facilitar a los Usuarios la búsqueda y acceso a otros sitios disponibles en Internet.
+
+Los enlaces a otros sitios Web no implica aprobación ni responsabilidad alguna, por parte del MEC, respecto de la información contenida en los mismos. Por ello, el MEC no asume responsabilidad desde el punto de vista legal o de otra índole, por la precisión, oportunidad, contenidos, usos que se dé a la información y a los documentos que se presentan en esta página, o en aquellas que se encuentren vinculadas con ésta.
+
+El MEC no asume ninguna responsabilidad por la información proporcionada por terceros y reproducida en este sitio. Por lo tanto, el ingreso a un sitio enlazado es de única y exclusiva responsabilidad del Usuario.
+
+#### **7. Protección de datos personales**
+
+Cuando un usuario entregue datos personales, el MEC se entenderá autorizada a su tratamiento según lo establecido en el marco normativo vigente en materia de protección de datos personales. En su mérito, tales datos serán protegidos de acuerdo con dicha normativa y podrán ser utilizados exclusivamente para la finalidad para la cual hayan sido brindados. Podrán ser transmitidos a entidades públicas o a terceros, única y exclusivamente cuando la consecución de la finalidad perseguida por el Usuario, así lo requiera o con su consentimiento.
+
+El MEC podrá utilizar cookies cuando el usuario navega por el sitio web pero éste puede configurar su navegador para ser avisado de la recepción de las cookies e impedir en caso de considerarlo adecuado, su instalación en el disco duro.
+
+#### **8. Retiro y suspensión de los servicios**
+
+El MEC podrá retirar o suspender en cualquier momento y sin necesidad de aviso previo la prestación de los servicios a aquellos usuarios que incumplan lo establecido en los presentes Términos y Condiciones.
+
+#### **9. Duración y terminación**
+
+La prestación del servicio del portal tiene una duración indefinida, no obstante, el MEC está autorizada para dar por terminada o suspendida, total o parcialmente, la prestación del servicio del portal o de cualquiera de los servicios asociados, cuando entienda que no están dadas las condiciones para su continuidad, mediante acto fundado que será publicitado en forma genérica.
+
+#### **10. Legislación aplicable y jurisdicción competente**
+
+Los presentes términos y condiciones se rigen en todos y cada uno de sus extremos por la ley, así como por la jurisdicción y competencia de los tribunales uruguayos.

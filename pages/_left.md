@@ -1,4 +1,3 @@
 - [Acerca de {{dict: site: name}}](/acerca/)
 - [Cómo usar](/como-usar/)
-- [Términos y condiciones](/sitio/page/terminos-y-condiciones/)
-- [Política de privacidad](/sitio/page/politica-de-privacidad/)
+- [Política de privacidad y Términos y condiciones](/sitio/page/terminos-y-condiciones/)
