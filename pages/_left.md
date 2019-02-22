@@ -1,3 +1,4 @@
-- [Acerca de {{dict: site: name}}](/acerca/)
+- [Acerca de Culturaenlinea](/acerca/)
 - [Cómo usar](/como-usar/)
 - [Política de privacidad y Términos y condiciones](/sitio/page/terminos-y-condiciones/)
+- [Contacto](/sitio/page/contacto/)

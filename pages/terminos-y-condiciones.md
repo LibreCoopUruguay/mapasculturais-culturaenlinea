@@ -88,7 +88,7 @@ Los administradores se reservan el derecho de modificar, archivar y/o eliminar c
 
   
 
-#### **2. Aceptación de los Términos y Condiciones**
+**2. Aceptación de los Términos y Condiciones**
 
   
 
@@ -102,9 +102,9 @@ Por su parte, cada sitio web podrá contener condiciones particulares, de acuerd
 
 Los presentes Términos y Condiciones son aplicables a toda persona física, jurídica, entidad pública, estatal o no, que acceda, descargue, utilice, reutilice y/o redistribuya información contenida en el portal, directamente o a través de una aplicación informática. Los términos y condiciones vincularán a cualquier Usuario por el mero hecho de hacer uso de los documentos sometidos a ellas.
 
-####   
 
-#### **3. Obligaciones de los Usuarios**
+
+**3. Obligaciones de los Usuarios**
 
 Son obligaciones de los Usuarios en general:
 
@@ -123,11 +123,11 @@ El MEC podrá actuar contra cualquier utilización del sitio por parte del Usuar
   
 El MEC se reserva la facultad de modificación, en cualquier momento, sin aviso previo, de la presentación, configuración del sitio, de los contenidos y servicios que en él se incorporan. Podrá asimismo, interrumpir, desactivar y/o cancelar cualquiera de los contenidos y/o servicios que se integran en éste.
 
-#### **4. Propiedad Intelectual**
+**4. Propiedad Intelectual**
 
 Todas las marcas, nombres comerciales o signos distintivos de cualquier clase que eventualmente aparezcan en este sitio web son propiedad del MEC o de terceros (agentes culturales registrados en la plataforma), sin que pueda entenderse que el uso o acceso al sitio atribuye al Usuario derecho alguno sobre las citadas marcas, nombres comerciales o signos distintivos de cualquier clase.
 
-#### **5. Exclusión de garantías y de responsabilidad**
+**5. Exclusión de garantías y de responsabilidad**
 
 La veracidad, integridad y actualidad de los contenidos publicados en el portal de Cultura en Línea son de exclusiva responsabilidad de la entidad pública que los proporciona.
 
@@ -135,7 +135,7 @@ El MEC se exonera de cualquier responsabilidad por los daños y perjuicios de to
 
 Tanto el acceso a la web como el uso sin consentimiento que pueda efectuarse de la información contenida en la misma es de exclusiva responsabilidad de quien la realiza. El MEC no responderá de ninguna consecuencia, daño o perjuicio que pueda derivarse de dicho acceso o uso.
 
-#### **6. Link o enlace a terceros sitios**
+**6. Link o enlace a terceros sitios**
 
 El sitio de Cultura en Línea puede contener dispositivos técnicos de enlace que ponen a disposición de los Usuarios (tales como links, banners, botones), directorios y herramientas de búsqueda que permiten a los Usuarios acceder a sitios web pertenecientes a terceros. La instalación de estos enlaces, directorios y herramientas de búsqueda en el Sitio tienen por único objeto facilitar a los Usuarios la búsqueda y acceso a otros sitios disponibles en Internet.
 
@@ -143,20 +143,20 @@ Los enlaces a otros sitios Web no implica aprobación ni responsabilidad alguna,
 
 El MEC no asume ninguna responsabilidad por la información proporcionada por terceros y reproducida en este sitio. Por lo tanto, el ingreso a un sitio enlazado es de única y exclusiva responsabilidad del Usuario.
 
-#### **7. Protección de datos personales**
+**7. Protección de datos personales**
 
 Cuando un usuario entregue datos personales, el MEC se entenderá autorizada a su tratamiento según lo establecido en el marco normativo vigente en materia de protección de datos personales. En su mérito, tales datos serán protegidos de acuerdo con dicha normativa y podrán ser utilizados exclusivamente para la finalidad para la cual hayan sido brindados. Podrán ser transmitidos a entidades públicas o a terceros, única y exclusivamente cuando la consecución de la finalidad perseguida por el Usuario, así lo requiera o con su consentimiento.
 
 El MEC podrá utilizar cookies cuando el usuario navega por el sitio web pero éste puede configurar su navegador para ser avisado de la recepción de las cookies e impedir en caso de considerarlo adecuado, su instalación en el disco duro.
 
-#### **8. Retiro y suspensión de los servicios**
+**8. Retiro y suspensión de los servicios**
 
 El MEC podrá retirar o suspender en cualquier momento y sin necesidad de aviso previo la prestación de los servicios a aquellos usuarios que incumplan lo establecido en los presentes Términos y Condiciones.
 
-#### **9. Duración y terminación**
+**9. Duración y terminación**
 
 La prestación del servicio del portal tiene una duración indefinida, no obstante, el MEC está autorizada para dar por terminada o suspendida, total o parcialmente, la prestación del servicio del portal o de cualquiera de los servicios asociados, cuando entienda que no están dadas las condiciones para su continuidad, mediante acto fundado que será publicitado en forma genérica.
 
-#### **10. Legislación aplicable y jurisdicción competente**
+**10. Legislación aplicable y jurisdicción competente**
 
 Los presentes términos y condiciones se rigen en todos y cada uno de sus extremos por la ley, así como por la jurisdicción y competencia de los tribunales uruguayos.
