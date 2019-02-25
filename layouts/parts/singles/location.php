@@ -5,7 +5,7 @@ $has_private_location = isset($has_private_location) && $has_private_location
 <?php if ( $this->isEditable() || (($has_private_location && $entity->publicLocation && $lat && $lng) || (!$has_private_location && $lat && $lng)) ): ?>
     <?php $this->applyTemplateHook('location','before'); ?>
     <div class="servico clearfix">
-     <p><i>Al georreferenciar un punto en el siguiente mapa, la información de la localización estará disponible para ser descargada por cualquier usuario  de la plataforma. Cultura en línea no se hace responsable por la utilización que terceros puedan realizar del mismo. (Este campo no es obligatorio).</i></p>
+     <!-- <p><i>Al georreferenciar un punto en el siguiente mapa, la información de la localización estará disponible para ser descargada por cualquier usuario  de la plataforma. Cultura en línea no se hace responsable por la utilización que terceros puedan realizar del mismo. (Este campo no es obligatorio).</i></p> -->
 			
         <div class="mapa js-map-container">
             <?php if($this->isEditable()): ?>
