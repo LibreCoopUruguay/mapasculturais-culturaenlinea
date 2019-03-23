@@ -63,9 +63,12 @@ $has_private_location = isset($has_private_location) && $has_private_location
                     </div><!--.sobre-info-geo-->
                 <?php }
             ?>
-            <p>
-            <i>Al completar este campo en la opción "pública", la información estará disponible para ser visualizada y descargada por cualquier usuario de la plataforma. Cultura en línea no se hace responsable por la utilización que terceros puedan realizar del mismo.</i>
-            </p>
+            <?php if($this->isEditable()): ?>
+            	<p>
+            		<i>Al completar este campo en la opción "pública", la información estará disponible para ser visualizada y descargada por cualquier usuario de la plataforma. Cultura en línea no se hace responsable por la utilización que terceros puedan realizar del mismo.</i>
+            	</p> 
+				<?php endif;?>
+            
         </div>
         <!--.infos-->
     </div>
