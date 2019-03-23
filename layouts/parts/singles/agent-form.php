@@ -83,22 +83,26 @@
             <p><span class="label"><?php \MapasCulturais\i::_e("E-mail");?> público:</span>
                 <span class="js-editable <?php echo ($entity->isPropertyRequired($entity,"emailPublico") && $this->isEditable()? 'required': '');?>" data-edit="emailPublico" data-original-title="<?php \MapasCulturais\i::esc_attr_e("Email Público");?>" data-emptytext="<?php \MapasCulturais\i::esc_attr_e("Insira um email que será exibido publicamente");?>">
                     <?php echo $entity->emailPublico; ?>
-                </span>
-                <p><i>Al completar este campo la información estará disponible para ser  visualizada y descargada por cualquier usuario  de la plataforma. Cultura en línea no se hace responsable por la utilización que terceros puedan realizar del mismo.
-                </i></p>
+                </span>                
             </p>
         <?php endif; ?>
-
+        <?php if($this->isEditable()): ?>
+				<p><i>Al completar este campo la información estará disponible para ser  visualizada y descargada por cualquier usuario  de la plataforma. Cultura en línea no se hace responsable por la utilización que terceros puedan realizar del mismo.
+                </i></p>
+		  <?php endif;?>
+		
         <!-- Teléfono Público -->
         <?php if($this->isEditable() || $entity->telefonePublico): ?>
             <p><span class="label"><?php \MapasCulturais\i::_e("Telefone Público");?>:</span>
                 <span class="js-editable js-mask-phone <?php echo ($entity->isPropertyRequired($entity,"telefonePublico") && $this->isEditable()? 'required': '');?>" data-edit="telefonePublico" data-original-title="<?php \MapasCulturais\i::esc_attr_e("Telefone Público");?>" data-emptytext="<?php \MapasCulturais\i::esc_attr_e("Insira um telefone que será exibido publicamente");?>">
                     <?php echo $entity->telefonePublico; ?>
                 </span>
-                <p><i>Al completar este campo la información estará disponible para ser  visualizada y descargada por cualquier usuario  de la plataforma. Cultura en línea no se hace responsable por la utilización que terceros puedan realizar del mismo.
-                </i></p>
             </p>
         <?php endif; ?>
+        <?php if($this->isEditable()): ?>
+				<p><i>Al completar este campo la información estará disponible para ser  visualizada y descargada por cualquier usuario  de la plataforma. Cultura en línea no se hace responsable por la utilización que terceros puedan realizar del mismo.
+                </i></p>
+		  <?php endif;?>
 
         <?php if($this->isEditable()): ?>
             <!-- Telefone Privado 1 -->
