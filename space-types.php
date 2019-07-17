@@ -164,7 +164,8 @@ return array(
                 'San José'=>'San José',
                 'Soriano'=>'Soriano',
                 'Tacuarembó'=>'Tacuarembó',
-                'Treinta y Tres'=>'Treinta y Tres',   
+                'Treinta y Tres'=>'Treinta y Tres',
+                'Diáspora'=>'Diáspora',
             )
         ],
 

@@ -182,9 +182,17 @@ return array(
                 'San José'=>'San José',
                 'Soriano'=>'Soriano',
                 'Tacuarembó'=>'Tacuarembó',
-                'Treinta y Tres'=>'Treinta y Tres',                
+                'Treinta y Tres'=>'Treinta y Tres',
+                'Diáspora'=>'Diáspora',       
             )
         ],
+        
+        'site' => array(
+            'label' => \MapasCulturais\i::__('Site'),
+            'validations' => array(
+                "v::url()" => \MapasCulturais\i::__("A url informada é inválida.")
+            )
+        ),
 
        'facebook' => array(
             'label' => 'Facebook',
