@@ -23,7 +23,7 @@ return array(
 //            )
         ),
 
-       /* 
+       /*
         'raca' => array(
             'private' => true,
             'label' => 'Raza/color',
@@ -119,7 +119,7 @@ return array(
             'label' => 'Dirección',
             'type' => 'text'
         ),
-                    
+
         'En_CEP' => [
             'label' => 'CP',
             'private' => function(){
@@ -139,7 +139,7 @@ return array(
             },
         ],
         'En_Complemento' => [
-            'label' => 'Complemento',
+            'label' => 'País de residencia',
             'private' => function(){
                 return !$this->publicLocation;
             },
@@ -183,10 +183,10 @@ return array(
                 'Soriano'=>'Soriano',
                 'Tacuarembó'=>'Tacuarembó',
                 'Treinta y Tres'=>'Treinta y Tres',
-                'Diáspora'=>'Diáspora',       
+                'Diáspora'=>'Diáspora',
             )
         ],
-        
+
         'site' => array(
             'label' => \MapasCulturais\i::__('Site'),
             'validations' => array(
