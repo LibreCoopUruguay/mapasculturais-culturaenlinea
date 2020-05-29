@@ -37,15 +37,19 @@ return array(
         ),
 
 
-        'telefone2' => array(
-            'label' => 'Teléfono 2',
-            'type' => 'string',
-            'private' => true
-            //'validations' => array(
-            //    'v::allOf(v::regex("#^\(\d{2}\)[ ]?\d{4,5}-\d{4}$#"), v::brPhone())' => 'Por favor, informe el teléfono 2 en el formato (xx) xxxx-xxxx.'
-            //)
-        ),
-
+       
+'telefone2' => array(
+            'label' => ' ¿El proyecto cultural que se desarrolla en este espacio es de carácter público/gubernamental? ',
+            'type' => 'select',
+	    'private' => true,
+            'options' => array(
+                'Sí' => 'Sí',
+                'No' => 'No'
+            ),
+            'validations' => array(
+                'required' => 'Debe seleccionar una opción.'
+            ),
+),
         /*
         'virtual_fisico' => array(
             'label' => 'Virtual ou físico',
@@ -56,15 +60,31 @@ return array(
             )
         ),
         */
-        'acessibilidade' => array(
-            'label' => 'Accesibilidad',
+       // 'acessibilidade' => array(
+         //   'label' => 'Accesibilidad',
+           // 'type' => 'select',
+      //      'options' => array(
+        //        '' => 'No Informado',
+          //      'Sí' => 'Sí',
+            //    'No' => 'No'
+//            )
+ //       ),
+'acessibilidade' => array(
+            'label' => 'Espacio físico',
             'type' => 'select',
             'options' => array(
-                '' => 'No Informado',
-                'Sí' => 'Sí',
-                'No' => 'No'
-            )
+                'Propio' => 'Propio',
+                'Alquilado' => 'Alquilado',
+                'Prestado en comodato' => 'Prestado en comodato',
+                'Prestado informalmente' => 'Prestado informalmente',
+                'Otro' => 'Otro'
+            ),
+            'validations' => array(
+                'required' => 'El espacio físico debe ser informada.'
+            ),
+	 'private' => true
         ),
+
         'acessibilidade_fisica' => array(
             'label' => 'Accesibilidad física',
             'type' => 'multiselect',
@@ -268,22 +288,21 @@ return array(
             )
         ),
 
-        'Otros Espacios Culturales' => array(
+            'Otros Espacios Culturales' => array(
             'range' => array(100,199),
             'items' => array(
             		100 => array( 'name' => 'Galería' ),
             		101 => array( 'name' => 'Librería' ),
             		102 => array( 'name' => 'Atelier' ),
-            		103 => array( 'name' => 'Boliche' ),
-            		104 => array( 'name' => 'Bar' ),
-            		105 => array( 'name' => 'Canales de TV abierta' ),
+            		103 => array( 'name' => 'Bar/Boliche' ),
+            		105 => array( 'name' => 'Canales de TV' ),
             		106 => array( 'name' => 'Centro de formación' ),
             		107 => array( 'name' => 'Disquería' ),
             		108 => array( 'name' => 'Distribuidora' ),
             		109 => array( 'name' => 'Editorial' ),
             		110 => array( 'name' => 'Escenario' ),
             		111 => array( 'name' => 'Espacios de exposición o exhibición' ),
-            		112 => array( 'name' => 'Espacios no convencionales' ),
+ 112 => array( 'name' => 'Espacios no convencionales' ),
             		113 => array( 'name' => 'Espacios Verdes' ),
             		114 => array( 'name' => 'Medios de comunicación digital' ),
             		115 => array( 'name' => 'Milongas' ),
@@ -297,7 +316,7 @@ return array(
                     123 => array( 'name' => 'Oficina cultural'),
                     124 => array( 'name' => 'Fabrica de Cultura'),
                     125 => array( 'name' => 'Espacios públicos'),
-                    126 => array( 'name' => 'Instituto'),
+                    126 => array( 'name' => 'Instituto de formación'),
                     127 => array( 'name' => 'Mediateca')
             )
         ),
