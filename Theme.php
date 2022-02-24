@@ -11,7 +11,10 @@ class Theme extends BaseV1\Theme {
         $app = App::i();
         
         parent::_init();
-
+ // LIMPIA CACHE IMAGEN PARA TELEGRAM
+$app->hook('asset(img/share.png):url', function (&$url) {
+    $url .= '?v2';
+});
         
         // Mensagem na página de login/registro
         $app->hook('multipleLocalAuth.loginPage:end', function() {
