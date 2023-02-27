@@ -4,6 +4,57 @@
  */
 return array(
     'metadata' => array(
+	'site' => array(
+            'label' => \MapasCulturais\i::__('Site'),
+            'validations' => array(
+                "v::url()" => \MapasCulturais\i::__("A url informada é inválida.")
+            )
+        ),
+
+        'facebook' => array(
+            'label' => \MapasCulturais\i::__('Facebook'),
+            'validations' => array(
+                "v::url('facebook.com')" => \MapasCulturais\i::__("A url informada é inválida.")
+            )
+        ),
+        'twitter' => array(
+            'label' => \MapasCulturais\i::__('Twitter'),
+            'validations' => array(
+                "v::url('twitter.com')" => \MapasCulturais\i::__("A url informada é inválida.")
+            )
+        ),
+
+        'instagram' => array(
+            'label' => \MapasCulturais\i::__('Instagram'),
+            'validations' => array(
+                "v::startsWith('@')" => \MapasCulturais\i::__("O usuário informado é inválido. Informe no formato @usuario e tente novamente")
+            )
+        ),
+        'linkedin' => array(
+            'label' => \MapasCulturais\i::__('Linkedin'),
+            'validations' => array(
+                "v::url('linkedin.com')" => \MapasCulturais\i::__("A url informada é inválida.")
+            )
+        ),
+        'spotify' => array(
+            'label' => \MapasCulturais\i::__('Spotify'),
+            'validations' => array(
+                "v::url('open.spotify.com')" => \MapasCulturais\i::__("A url informada é inválida.")
+            )
+        ),
+        'youtube' => array(
+            'label' => \MapasCulturais\i::__('YouTube'),
+            'validations' => array(
+                "v::url('youtube.com')" => \MapasCulturais\i::__("A url informada é inválida.")
+            )
+        ),
+        'pinterest' => array(
+            'label' => \MapasCulturais\i::__('Pinterest'),
+            'validations' => array(
+                "v::url('pinterest.com')" => \MapasCulturais\i::__("A url informada é inválida.")
+            )
+        ),
+
         'introInscricoes' => array(
             'label' => 'Texto introductorio de las inscripciones',
             'type' => 'text'
@@ -31,42 +82,19 @@ return array(
             )
         ),
 
-        'site' => array(
-            'label' => 'Sitio',
-           // 'validations' => array(
-           //     "v::url()" => "La url informada no es válida. Deber comenzar con http://"
-          //  )
-        ),
-
-        'facebook' => array(
-            'label' => 'Facebook',
-           // 'validations' => array(
-           //     "v::url('facebook.com')" => "La url informada no es válida. Deber comenzar con http://"
-          //  )
-        ),
-        'twitter' => array(
-            'label' => 'Twitter',
-           // 'validations' => array(
-           //     "v::url('twitter.com')" => "La url informada no es válida. Deber comenzar con http://"
-           // )
-        ),
-        'googleplus' => array(
-            'label' => 'Google+',
-           // 'validations' => array(
-           //     "v::url('plus.google.com')" => "La url informada no es válida. Deber comenzar con http://"
-           // )
-        ),
-        'instagram' => array(
-            'label' => \MapasCulturais\i::__('Instagram'),
-            'validations' => array(
-                "v::startsWith('@')" => \MapasCulturais\i::__("O usuário informado é inválido. Informe no formato @usuario e tente novamente")
-            )
-        ),
-        
         'registrationSeals' => array(
                 'label' => \MapasCulturais\i::__('Selos'),
                 'serialize' => function($value) { return json_encode($value); },
                 'unserialize' => function($value) { return json_decode($value); }
+        ),
+        'useSpaceRelation' => array(
+            'label' => \MapasCulturais\i::__('Espaço Relacionado'),
+            'type' => 'select',
+            'options' => array(
+                'dontUse' => \MapasCulturais\i::__('Não utilizar'),
+                'required' => \MapasCulturais\i::__('Obrigatório'),
+                'optional' => \MapasCulturais\i::__('Opcional')
+            )
         ),
 
     ),
